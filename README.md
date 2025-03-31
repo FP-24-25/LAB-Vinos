@@ -103,6 +103,7 @@ Crear la clase **FactoriaVinos** con los siguientes métodos estáticos:
 - **FactoriaVinos::parsearVino:** método privado para construir un objeto **Vino** a partir de una línea CSV del fichero de entrada.
 - **FactoriaVinos::leerVinoteca** método que devuelve un objeto **Vinoteca** a partir de la ruta del fichero en el que se encuentran los datos de los vinos.
 
+### **EJERCICIO 4**
 
 #### **Apartado a - Tratamientos secuenciales simples**
 
